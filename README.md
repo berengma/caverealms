@@ -9,6 +9,7 @@ For more information, view the official forum topic at:
 ## Contributors
 - HeroOfTheWinds - everything
 - Zeno - additional ideas and fine tuning
+- Tagada - support circular saw, stairs and columnia
 
 ##Licensing
 - WTFPL
